@@ -75,7 +75,7 @@ video_source = "pexels"
 # Key 必须使用英文半角双引号，多个 Key 使用英文逗号分隔。
 
 # Register at https://www.pexels.com/api/
-pexels_api_keys = [yWyXRycoMxmINYKyASupTAkEcEw0zO3mDcBCOkii0OOaovSzaM2YRSbr]
+pexels_api_keys = yWyXRycoMxmINYKyASupTAkEcEw0zO3mDcBCOkii0OOaovSzaM2YRSbr
 
 # Register at https://pixabay.com/api/docs/
 pixabay_api_keys = []
@@ -130,9 +130,9 @@ llm_provider = "moonshot"
 
 # Kimi / Moonshot AI
 # API key: https://platform.kimi.com?track_id=track-2f5441d6ffd84c509dd079d78e9db5dc&aff=moneyprinterturbo
-moonshot_api_key = "sk-FZsPfeyAyuqjo4PF3Nq6BVOm1ikvoADj8TChiKBn9JtcNaw5"
-moonshot_base_url = "https://api.moonshot.ai/v1"
-moonshot_model_name = "Kimi K3"
+moonshot_api_key = sk-FZsPfeyAyuqjo4PF3Nq6BVOm1ikvoADj8TChiKBn9JtcNaw5
+moonshot_base_url = https://api.moonshot.ai/v1
+moonshot_model_name = Kimi K3
 
 # Shengsuan Cloud, OpenAI-compatible multi-model API.
 # API docs: https://lean.shengsuanyun.com/apidocs/api/openai-api
